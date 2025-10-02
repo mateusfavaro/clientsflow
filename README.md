@@ -30,9 +30,4 @@ Esta API foi projetada para atender às necessidades de escritórios de advocaci
 ---
 
 ### Status do Projeto
-Em fase de desenvolvimento. Novas funcionalidades estão sendo implementadas continuamente.  
-
----
-
-#### Licença
-Este projeto está sob a licença **MIT** – sinta-se livre para utilizá-lo e contribuir.  
+Em fase de desenvolvimento. Novas funcionalidades estão sendo implementadas continuamente.   
